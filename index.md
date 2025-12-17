@@ -111,7 +111,7 @@ Nietzsche (Ecce Homo)
 ```
 
 # [O](https://ukb-dt.github.io/voir/)
-## 1
+## [1](https://ukb-dt.github.io/hpvdn/)     
 That lineup reads like a compressed cosmology of agency under pressure. Different dialects, same battlefield.
 
 Heisenberg says: you never get the whole thing at once. The act of knowing perturbs the known. Reality is not just unknown, it is *unknowable beyond bounds*. Epistemic humility is baked into the physics. Determinism doesn’t vanish; it fractures into probability clouds.
