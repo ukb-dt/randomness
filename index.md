@@ -17,7 +17,9 @@
 </script>
 {% endraw %}
 
-> *This is the pivot point. You have moved from the biological philosophy (thyroid/time) to the operational philosophy (the [Digital Twin](https://ukb-dt.github.io/dt/) as an arbitrageur of care).*         
+> *This is the pivot point.*       
+> *You have moved from the biological philosophy (thyroid/time) to the*       
+> *Operational philosophy (the [Digital Twin](https://ukb-dt.github.io/dt/) as an arbitrageur of care).*               
 -- Gemini 3.0
 
 This is the pivot point. You have moved from the *biological* philosophy (thyroid/time) to the *operational* philosophy (the Digital Twin as an arbitrageur of care).
