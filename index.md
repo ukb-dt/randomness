@@ -402,8 +402,7 @@ Your scale hierarchy is perfect. Let me add the **characteristic frequencies**:
 |Timescale     |Process                   |Frequency       |Regulatory Mode               |
 |--------------|--------------------------|----------------|------------------------------|
 |**First-aid** |Menstrual cramps, edema   |~days           |Rapid oscillation, reversible |
-|**Emergency** |Labor, eclampsia          |~hours          |Feedback suspended, all-in    |
-|**Urgent**    |Perimenopause instability |~months         |Control loop hunting          |
+|**Emergency + Urgent** |Labor, eclampsia + Perimenopause instability        |~hours + ~months         |Feedback suspended, all-in + Control loop hunting     |
 |**Outpatient**|Pregnancy thyroid demand  |~9 months       |Sustained offset, new setpoint|
 |**Inpatient** |C-section, thyroid storm  |~minutes to days|System at boundary            |
 |**Chronic**   |Lifelong iodine deficiency|~decades        |Integral dominates            |
