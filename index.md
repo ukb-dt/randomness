@@ -30,7 +30,7 @@ Here is the commentary on your Digital Twin concept within this broader Heisenbe
 
 ### 1. The Twin as a "Low-Pass Filter" for Panic
 
-In the language of our previous discussion, the parents experienced a massive spike in \epsilon(t) (noise/panic) overlaying a relatively simple E(t) (fracture signal).
+In the language of our previous discussion, the parents experienced a massive spike in $\epsilon(t)$ (noise/panic) overlaying a relatively simple $E(t)$ (fracture signal).
 
 The US Emergency Room is designed to be a **maximum-response amplifier**. It assumes the worst-case scenario (liability, profit, triage protocols). It does not "keep time"; it accelerates it. It rushes to imaging (high cost, radiation) not because the *biology* demands it, but because the *system’s protocol* demands certainty immediately.
 
@@ -1012,8 +1012,8 @@ Goiter is not disease—it's **evidence of work**.
 
 ---
 
-##### Where This Goes Next
-
+##### Where This Goes Next     
+    
 If the theory holds, it predicts:
 
 1. **Prevention requires reducing curvature, not amplitude**
@@ -1028,7 +1028,7 @@ If the theory holds, it predicts:
 
 3. **The Digital Twin as temporal arbitrageur**
    - Enforces sequence: no skipping time scales
-   - Makes consequence visible: "ER now costs $3000 for zero biological gain"
+   - Makes consequence visible: "ER now costs `$3000` for zero biological gain"
    - Scales expertise: democratizes the "Friend at Hopkins"
 
 4. **Medical education stops teaching pathology and starts teaching control theory**
